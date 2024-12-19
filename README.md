@@ -67,9 +67,9 @@ Hospital Database
 | Number of Patients per Doctor          | ![Patients](Images/4no%20of%20patients.png)   |
 | Patient Admission Statistics           | ![Statistics](Images/5appointment%20cancelled.png)  |
 | Ward Utilization Report                | ![Ward Utilization](Images/6busiest%20day.png) |
-| Appointment Scheduling Efficiency      | ![Scheduling Efficiency](Image/7multiple%20doctors.png)  |
-| Revenue Breakdown by Department        | ![Revenue Breakdown](Image/8avg%20treatment%2cost.png)  |
-| Staff Shift Optimization Analysis      | ![Shift Optimization](Image/9specialization%20completed%20appoin.png) |
-| Monthly Patient Discharge Trends       | ![Discharge Trends](Images/10discharge%20trends.png) |
+| Appointment Scheduling Efficiency      | ![Appointment](Images/7multiple%20doctors.png) |
+| Revenue Breakdown by Department        | ![Revenue](Images/8avg%20treatment%20cost.png) |
+| Staff Shift Optimization Analysis      | ![Staff Shift](Images/9specialization%20completed%20appoint.png) |
+| Monthly Patient Discharge Trends       | ![Discharge Trends](Images/10appointments%20with%20billing%20status.png) |
 
 ---
