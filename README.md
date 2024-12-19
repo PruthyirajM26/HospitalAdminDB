@@ -59,17 +59,17 @@ Hospital Database
 
 ## ** Outputs**
 
-| Query Description                      |  Image                                        |
-|----------------------------------------|-----------------------------------------------|
-| Average Patient Wait Times             | ![Wait Times](Images/1wait%20times.png)       |
-| Unpaid Bills Report                    | ![Unpaid Bills](Images/2unpaid%20bill.png)    |
-| Total Revenue by Doctor                | ![Revenue](Images/3total%20revenue.png)       |
-| Number of Patients per Doctor          | ![Patients](Images/4no%20of%20patients.png)   |
-| Patient Admission Statistics           | ![Statistics](Images/5appointment%20cancelled.png)  |
-| Ward Utilization Report                | ![Ward Utilization](Images/6busiest%20day.png) |
-| Appointment Scheduling Efficiency      | ![Appointment](Images/7multiple%20doctors.png) |
-| Revenue Breakdown by Department        | ![Revenue](Images/8avg%20treatment%20cost.png) |
-| Staff Shift Optimization Analysis      | ![Staff Shift](Images/9specialization%20completed%20appoint.png) |
-| Monthly Patient Discharge Trends       | ![Discharge Trends](Images/10appointments%20with%20billing%20status.png) |
+| Query Description                                                    |  Image                                                                   |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 1. Calculate average patient wait times by doctor                    | ![Wait Times](Images/1wait%20times.png)                                  |
+| 2. List patients with unpaid bills                                   | ![Unpaid Bills](Images/2unpaid%20bill.png)                               |
+| 3. Generate report of total revenue by doctor                        | ![Revenue](Images/3total%20revenue.png)                                  |
+| 4. Count the number of patients treated by each doctor               | ![Patients](Images/4no%20of%20patients.png)                              |
+| 5. Identify frequently cancelled appointments by patient             | ![Statistics](Images/5appointment%20cancelled.png)                       |
+| 6. Identify the busiest day for appointments for each doctor         | ![Ward Utilization](Images/6busiest%20day.png)                           |
+| 7. List patients who have seen multiple doctors                      | ![Appointment](Images/7multiple%20doctors.png)                           |
+| 8. Calculate average treatment cost per patient                      | ![Revenue](Images/8avg%20treatment%20cost.png)                           |
+| 9. Find the most common specialization for completed appointments    | ![Staff Shift](Images/9specialization%20completed%20appoint.png)         |
+| 10. List all appointments with their associated billing status       | ![Discharge Trends](Images/10appointments%20with%20billing%20status.png) |
 
 ---
